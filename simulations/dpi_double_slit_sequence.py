@@ -100,4 +100,6 @@ for ax in axs.flat:
     ax.axis("off")
 
 plt.tight_layout()
+plt.savefig("figures/dpi_sequence.png", dpi=300, bbox_inches="tight")
 plt.show()
+
