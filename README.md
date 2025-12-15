@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17942454.svg)](https://doi.org/10.5281/zenodo.17942454)
+
 # Detector-Plane Imaging & Imprint Field Dynamics (DPI + IFD)
 
 ![DPI sequence example](figures/dpi_sequence.png)
@@ -102,6 +104,15 @@ You are free to share, adapt, and use this material for any purpose, including c
 
 Full license text:  
 https://creativecommons.org/licenses/by/4.0/
+
+---
+
+## Citation
+
+If you use or reference this framework, please cite:
+
+Srikar R. (2025). *Detector-Plane Imaging & Imprint Field Dynamics (DPI + IFD)*.  
+Zenodo. https://doi.org/10.5281/zenodo.17942454
 
 ---
 
